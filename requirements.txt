@@ -1,6 +1,6 @@
 tensorflow
 pandas 
-dvc
+dvc[all]==2.8.3
 notebook
 numpy
 matplotlib
